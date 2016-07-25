@@ -7,8 +7,10 @@ categories: Assignment 5 Post, science
 
 In the 5th assignment the goal was to practice with writing scripts and storing the user input into a MySQL database that we set up. Incorporating our previous work from task 4, as team Dogwood we scripted user input into a .CSV also known as comma seperated values as to distingish them, or .TSV, substitute commas for tabs, files. The data recorded from task 4 was then loaded it into the MySQL database which we created, outputting a downloadable .sql file. This was done by running our script. 
 
-[Assignment 4](https://github.com/NimBreitenfeld/Dogwood) 
+[Assignment 4](https://github.com/NimBreitenfeld/Dogwood)
+
 This survey is about Pokemon Go.
 
-[Assignment 5](https://github.com/jkleissler/task-5-database-interface) 
+[Assignment 5](https://github.com/jkleissler/task-5-database-interface)
+
 This has data recorded from Assignmnet 4 loaded into a MySQL database.
